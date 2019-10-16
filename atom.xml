@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-16T02:03:11.503Z</updated>
+  <updated>2019-10-16T03:32:42.339Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,13 +21,19 @@
     <link href="http://yoursite.com/2019/10/16/first/"/>
     <id>http://yoursite.com/2019/10/16/first/</id>
     <published>2019-10-16T02:03:11.000Z</published>
-    <updated>2019-10-16T02:03:11.503Z</updated>
+    <updated>2019-10-16T03:32:42.339Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+      <category term="Diary" scheme="http://yoursite.com/categories/Diary/"/>
+    
+    
+      <category term="PS3" scheme="http://yoursite.com/tags/PS3/"/>
+    
+      <category term="Games" scheme="http://yoursite.com/tags/Games/"/>
     
   </entry>
   
