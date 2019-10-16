@@ -5,9 +5,9 @@
   <subtitle>just do it</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://cooldrivez.github.io.com/"/>
+  <link href="https://cooldrivez.github.io./"/>
   <updated>2019-10-16T03:32:42.339Z</updated>
-  <id>http://cooldrivez.github.io.com/</id>
+  <id>https://cooldrivez.github.io./</id>
   
   <author>
     <name>cooldrive</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>first</title>
-    <link href="http://cooldrivez.github.io.com/2019/10/16/first/"/>
-    <id>http://cooldrivez.github.io.com/2019/10/16/first/</id>
+    <link href="https://cooldrivez.github.io./2019/10/16/first/"/>
+    <id>https://cooldrivez.github.io./2019/10/16/first/</id>
     <published>2019-10-16T02:03:11.000Z</published>
     <updated>2019-10-16T03:32:42.339Z</updated>
     
@@ -28,19 +28,19 @@
     </summary>
     
     
-      <category term="Diary" scheme="http://cooldrivez.github.io.com/categories/Diary/"/>
+      <category term="Diary" scheme="https://cooldrivez.github.io./categories/Diary/"/>
     
     
-      <category term="PS3" scheme="http://cooldrivez.github.io.com/tags/PS3/"/>
+      <category term="PS3" scheme="https://cooldrivez.github.io./tags/PS3/"/>
     
-      <category term="Games" scheme="http://cooldrivez.github.io.com/tags/Games/"/>
+      <category term="Games" scheme="https://cooldrivez.github.io./tags/Games/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://cooldrivez.github.io.com/2019/10/16/hello-world/"/>
-    <id>http://cooldrivez.github.io.com/2019/10/16/hello-world/</id>
+    <link href="https://cooldrivez.github.io./2019/10/16/hello-world/"/>
+    <id>https://cooldrivez.github.io./2019/10/16/hello-world/</id>
     <published>2019-10-16T00:58:59.623Z</published>
     <updated>2019-10-16T00:58:59.623Z</updated>
     
