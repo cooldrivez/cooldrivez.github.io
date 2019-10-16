@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cooldrivez.github.io./"/>
-  <updated>2019-10-16T05:20:47.669Z</updated>
+  <updated>2019-10-16T05:22:34.596Z</updated>
   <id>https://cooldrivez.github.io./</id>
   
   <author>
@@ -21,16 +21,16 @@
     <link href="https://cooldrivez.github.io./2019/10/16/first/"/>
     <id>https://cooldrivez.github.io./2019/10/16/first/</id>
     <published>2019-10-16T02:03:11.000Z</published>
-    <updated>2019-10-16T05:20:47.669Z</updated>
+    <updated>2019-10-16T05:22:34.596Z</updated>
     
-    <content type="html"><![CDATA[<p>第一篇test<br>##let’s begin<br>###1</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">aaa</span><br></pre></td></tr></table></figure><p>###2<br>###3</p>]]></content>
+    <content type="html"><![CDATA[<p>第一篇test</p><h2 id="let’s-begin"><a href="#let’s-begin" class="headerlink" title="let’s begin"></a>let’s begin</h2><h3 id="1"><a href="#1" class="headerlink" title="1"></a>1</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><h3 id="2"><a href="#2" class="headerlink" title="2"></a>2</h3><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;第一篇test&lt;br&gt;##let’s begin&lt;br&gt;###1&lt;/p&gt;
-&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/p
+        &lt;p&gt;第一篇test&lt;/p&gt;
+&lt;h2 id=&quot;let’s-begin&quot;&gt;&lt;a href=&quot;#let’s-begin&quot; class=&quot;headerlink&quot; title=&quot;let’s begin&quot;&gt;&lt;/a&gt;let’s begin&lt;/h2&gt;&lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1
       
     
     </summary>
